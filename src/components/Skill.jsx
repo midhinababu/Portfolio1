@@ -89,7 +89,7 @@ function Skill() {
         <Row className="text-center mb-4">
           <Col xs={6} md={3} className="mb-3">
             <img
-              src="src/images/html.png"
+              src="/images/html.png"
               alt="HTML"
               className="skill-img"
             />
@@ -98,7 +98,7 @@ function Skill() {
 
           <Col xs={6} md={3} className="mb-3">
             <img
-              src="src/images/css.png"
+              src="/images/css.png"
               alt="CSS"
               className="skill-img"
             />
@@ -107,7 +107,7 @@ function Skill() {
 
           <Col xs={6} md={3} className="mb-3">
             <img
-              src="src/images/js.png"
+              src="/images/js.png"
               alt="JavaScript"
               className="skill-img"
             />
@@ -116,7 +116,7 @@ function Skill() {
 
           <Col xs={6} md={3} className="mb-3">
             <img
-              src="src/images/react.png"
+              src="/images/react.png"
               alt="React"
               className="skill-img"
             />
@@ -128,7 +128,7 @@ function Skill() {
         <Row className="text-center">
           <Col xs={6} md={3} className="mb-3">
             <img
-              src="src/images/nodejs.png"
+              src="/images/nodejs.png"
               alt="Node.js"
               className="skill-img"
             />
@@ -137,7 +137,7 @@ function Skill() {
 
           <Col xs={6} md={3} className="mb-3">
             <img
-              src="src/images/express.png"
+              src="/images/express.png"
               alt="Express"
               className="skill-img"
             />
@@ -146,7 +146,7 @@ function Skill() {
 
           <Col xs={6} md={3} className="mb-3">
             <img
-              src="src/images/mongodb.png"
+              src="/images/mongodb.png"
               alt="MongoDB"
               className="skill-img"
             />
@@ -155,7 +155,7 @@ function Skill() {
 
           <Col xs={6} md={3} className="mb-3">
             <img
-              src="src/images/git.png"
+              src="/images/git.png"
               alt="Git"
               className="skill-img"
             />

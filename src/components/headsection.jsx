@@ -33,7 +33,7 @@ function Headsection() {
           {/* RIGHT SIDE IMAGE */}
           <Col md={6} className="text-center mt-4 mt-md-0">
             <img
-              src="/src/images/Gemini2.png"
+              src="/images/Gemini2.png"
               alt="profile"
               className="img-fluid hero-profile-img"
             />
